@@ -6,6 +6,15 @@ Working with this project reduces prep time and keeps your project clean.
 
 # Structure project
 
+* src
+  + assemblies
+  + schemes
+  + dbo
+  + tests
+
+# Sample
+## Demo project
+[M-Skeleton.Sample](https://github.com/live-dev999/M-Skeleton.Sample)
 
 # How it works
 You need will do steps: 
